@@ -1,4 +1,4 @@
-package camp.nextstep.edu.cipherlab;
+package cipherlab;
 
 public class Application {
     public static void main(String[] args) {
